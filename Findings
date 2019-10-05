@@ -1,0 +1,11 @@
+# ETL_Project
+
+For this project, we extracted and transformed Brooklyn Bridge pedestrian and cyclist data counts for the month of October 2017. I used the dataset from the DOT with counts for days without preciptiation. 
+
+I extracted the data from NY DOT's data sets. 
+
+I transformed the tables with the columns i wanted to combine.
+
+I created two tables in SQL: Pedestrian and Cyclist
+
+I loaded the SQL tables into a new combined database. 
